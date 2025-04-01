@@ -1,0 +1,4 @@
+﻿  main1.cpp
+C:\Users\38830\source\repos\Project6\Project6\main1.cpp(161,33): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\38830\source\repos\Project6\Project6\main1.cpp(368,41): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  Project6.vcxproj -> C:\Users\38830\source\repos\Project6\x64\Debug\Project6.exe
